@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = flowchartsymbolpicker.h
 SOURCES       = flowchartsymbolpicker.cpp \

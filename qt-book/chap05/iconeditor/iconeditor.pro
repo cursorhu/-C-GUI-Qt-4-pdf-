@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = iconeditor.h
 SOURCES       = iconeditor.cpp \

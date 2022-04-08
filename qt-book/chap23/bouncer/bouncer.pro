@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = lib
 CONFIG       += dll qaxserver
 HEADERS       = axbouncer.h \

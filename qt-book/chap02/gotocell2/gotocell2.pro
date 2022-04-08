@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = gotocelldialog.h
 SOURCES       = gotocelldialog.cpp \

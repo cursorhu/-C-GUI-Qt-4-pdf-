@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = plotter.h
 SOURCES       = main.cpp \

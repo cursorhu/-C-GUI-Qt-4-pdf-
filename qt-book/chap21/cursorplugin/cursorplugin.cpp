@@ -1,4 +1,5 @@
-#include <QtGui>
+//#include <QtGui>
+#include <QtWidgets>
 
 #include "cursorhandler.h"
 #include "cursorplugin.h"

@@ -1,4 +1,5 @@
-#include <QtGui>
+//#include <QtGui>
+#include <QtWidgets>
 
 #include "axbouncer.h"
 #include "objectsafetyimpl.h"

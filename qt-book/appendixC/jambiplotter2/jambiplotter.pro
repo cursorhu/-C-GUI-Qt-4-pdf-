@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = lib
 TARGET        = com_softwareinc_plotter2
 HEADERS       = ../plotter/plotter.h

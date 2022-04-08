@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = bronzedialog.h \
                 bronzestyle.h

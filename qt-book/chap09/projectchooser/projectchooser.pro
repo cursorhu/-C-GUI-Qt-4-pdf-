@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = projectdialog.h \
                 projectlistwidget.h

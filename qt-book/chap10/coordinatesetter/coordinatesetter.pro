@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = coordinatesetter.h
 SOURCES       = coordinatesetter.cpp \

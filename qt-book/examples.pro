@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = subdirs
 SUBDIRS       = chap01/age \
                 chap01/hello \

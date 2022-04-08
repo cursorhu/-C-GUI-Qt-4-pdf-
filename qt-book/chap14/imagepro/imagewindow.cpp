@@ -1,4 +1,5 @@
-#include <QtGui>
+//#include <QtGui>
+#include <QtWidgets>
 
 #include "imagewindow.h"
 #include "ui_resizedialog.h"

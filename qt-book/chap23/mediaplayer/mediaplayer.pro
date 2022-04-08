@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 CONFIG       += qaxcontainer
 HEADERS       = playerwindow.h

@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 QT           += script xml
 HEADERS       = filterdialog.h \

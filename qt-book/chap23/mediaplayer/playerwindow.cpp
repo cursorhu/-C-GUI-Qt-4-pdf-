@@ -1,4 +1,5 @@
-#include <QtGui>
+//#include <QtGui>
+#include <QtWidgets>
 #include <QAxWidget>
 
 #include "playerwindow.h"

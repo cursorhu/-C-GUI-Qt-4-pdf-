@@ -1,4 +1,5 @@
-#include <QtGui>
+//#include <QtGui>
+#include <QtWidgets>
 
 #include "bronzestyleplugin.h"
 #include "../bronze/bronzestyle.h"

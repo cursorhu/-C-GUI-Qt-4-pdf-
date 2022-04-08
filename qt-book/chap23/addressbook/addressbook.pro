@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 CONFIG       += qaxserver
 HEADERS       = abitem.h \

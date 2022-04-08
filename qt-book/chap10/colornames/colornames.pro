@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = colornamesdialog.h
 SOURCES       = colornamesdialog.cpp \

@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = lib
 CONFIG       += designer plugin release
 HEADERS       = ../iconeditor/iconeditor.h \

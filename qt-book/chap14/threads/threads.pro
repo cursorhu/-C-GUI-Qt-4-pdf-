@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 CONFIG       += console thread
 HEADERS       = thread.h \

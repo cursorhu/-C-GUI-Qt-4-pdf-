@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 CONFIG       += console thread
 CONFIG       -= app_bundle

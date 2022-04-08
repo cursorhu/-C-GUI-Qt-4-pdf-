@@ -40,7 +40,8 @@
  * OpenGL(TM) is a trademark of Silicon Graphics, Inc.
  */
 
-#include <QtGui>
+//#include <QtGui>
+#include <QtWidgets>
 #include <QtOpenGL>
 
 #include "teapots.h"

@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = currencymodel.h
 SOURCES       = currencymodel.cpp \

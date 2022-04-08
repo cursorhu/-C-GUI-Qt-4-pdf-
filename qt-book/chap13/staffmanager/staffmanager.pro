@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 QT           += sql
 HEADERS       = employeeform.h \

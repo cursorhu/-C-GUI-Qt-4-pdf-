@@ -1,3 +1,4 @@
+QT += widgets
 TEMPLATE      = app
 HEADERS       = convertdialog.h
 SOURCES       = convertdialog.cpp \
