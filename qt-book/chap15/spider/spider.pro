@@ -1,6 +1,6 @@
 QT += widgets
 TEMPLATE      = app
-QT            = core network
+QT            += core network
 CONFIG       += console
 CONFIG       -= app_bundle
 HEADERS       = spider.h

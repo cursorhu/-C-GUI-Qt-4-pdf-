@@ -5,3 +5,4 @@ CONFIG       += console
 HEADERS       = vowelcube.h
 SOURCES       = main.cpp \
                 vowelcube.cpp
+LIBS += -lopengl32

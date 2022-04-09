@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 
     QTreeWidget treeWidget;
     treeWidget.setHeaderLabels(labels);
-    treeWidget.header()->setResizeMode(QHeaderView::Stretch);
+    treeWidget.header()->setSectionResizeMode(QHeaderView::Stretch);
     treeWidget.setWindowTitle(QObject::tr("DOM Parser"));
     treeWidget.show();
 

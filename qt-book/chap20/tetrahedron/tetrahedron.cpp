@@ -1,7 +1,7 @@
 //#include <QtGui>
 #include <QtWidgets>
 #include <QtOpenGL>
-
+#include "gl/glu.h"
 #include "tetrahedron.h"
 
 Tetrahedron::Tetrahedron(QWidget *parent)
